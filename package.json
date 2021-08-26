@@ -31,6 +31,7 @@
   "homepage": "https://github.com/pranavmalvawala/my-awesome-greeter#readme",
   "devDependencies": {
     "@types/jest": "^27.0.1",
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "jest": "^27.0.6",
     "prettier": "^2.3.2",
