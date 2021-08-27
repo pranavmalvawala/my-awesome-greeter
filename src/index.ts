@@ -6,3 +6,5 @@ export interface Person {
   name: string;
   title: string;
 }
+
+export { Greet } from './components/Greet';

@@ -31,10 +31,12 @@
   "homepage": "https://github.com/pranavmalvawala/my-awesome-greeter#readme",
   "devDependencies": {
     "@types/jest": "^27.0.1",
+    "@types/react": "^17.0.19",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "jest": "^27.0.6",
     "prettier": "^2.3.2",
+    "react": "^17.0.2",
     "ts-jest": "^27.0.5",
     "typescript": "^4.3.5"
   },
