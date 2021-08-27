@@ -29,6 +29,9 @@
     "url": "https://github.com/pranavmalvawala/my-awesome-greeter/issues"
   },
   "homepage": "https://github.com/pranavmalvawala/my-awesome-greeter#readme",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@types/react": "^17.0.19",
